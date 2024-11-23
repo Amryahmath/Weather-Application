@@ -27,8 +27,6 @@ A simple weather application that fetches real-time weather data using the OpenW
 
 ---
 
-### Demo
-![WeatherApp Screenshot](screenshot.png)
 
 ---
 
